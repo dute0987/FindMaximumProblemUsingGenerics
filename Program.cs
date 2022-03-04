@@ -56,9 +56,9 @@ namespace CheckMaximumNumber
 
             //UC-3 for string
 
-            string num7 = "hello";
+            string num7 = "you";
             string num8 = "how";
-            string num9 = "you";
+            string num9 = "hello";
 
             if (num7.CompareTo(num8) >= 0 && (num7.CompareTo(num9)) >= 0)
             {
