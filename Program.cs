@@ -54,7 +54,7 @@ namespace CheckMaximumNumber
                 Console.WriteLine("the max is " + num6);
             }
 
-            //UC-3 for string
+            //UC-3 for string//
 
             string num7 = "how";
             string num8 = "hello";
