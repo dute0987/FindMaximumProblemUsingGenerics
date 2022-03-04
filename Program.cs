@@ -11,7 +11,7 @@ namespace CheckMaximumNumber
 
             //U-1-for Integer
 
-            int num1 = 13;
+            int num1 = 33;
             int num2 = 23;
             int num3 = 15;
 
