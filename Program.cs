@@ -12,8 +12,8 @@ namespace CheckMaximumNumber
             //U-1-for Integer
 
             int num1 = 23;
-            int num2 = 33;
-            int num3 = 15;
+            int num2 = 15;
+            int num3 = 33;
 
 
             //int value = num1.CompareTo(num2);
@@ -37,8 +37,8 @@ namespace CheckMaximumNumber
             //UC-2-for Double
 
             double num4 = 21.3;
-            double num5 = 34.5;
-            double num6 = 12.33;
+            double num5 = 12.33;
+            double num6 = 34.5;
 
             if (num4.CompareTo(num5) >= 0 && (num4.CompareTo(num6)) >= 0)
             {
@@ -57,8 +57,8 @@ namespace CheckMaximumNumber
             //UC-3 for string
 
             string num7 = "how";
-            string num8 = "you";
-            string num9 = "hello";
+            string num8 = "hello";
+            string num9 = "you";
 
             if (num7.CompareTo(num8) >= 0 && (num7.CompareTo(num9)) >= 0)
             {
